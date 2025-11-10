@@ -2,3 +2,7 @@ Hello Guyssss
 
 Welcome to JavaFSD
 Today is the first day of training.
+
+
+Today we studied about git.
+And the session was really good.
